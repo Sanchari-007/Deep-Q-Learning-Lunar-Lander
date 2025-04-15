@@ -1,3 +1,5 @@
+This is a Lab exercise of my Machine Learning Specialization certification by Stanford University (Coursera)
+
 # 🚀 Deep Q-Learning: Lunar Lander
 
 This repository contains my implementation of **Deep Q-Learning (DQN)** to solve the **Lunar Lander** problem using the OpenAI Gym environment. The project walks through key concepts of reinforcement learning, agent training, and performance evaluation in a step-by-step manner using Jupyter Notebook.
